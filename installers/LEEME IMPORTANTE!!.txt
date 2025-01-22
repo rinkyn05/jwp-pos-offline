@@ -1,0 +1,25 @@
+¡Bienvenido a JUST WPOS OFFLINE!
+
+Gracias por elegir JUST WPOS OFFLINE, el sistema de Punto de Ventas fuera de línea mas completo desarrollado por Just WP.
+
+### Requisito importante:
+Para ejecutar JUST WPOS OFFLINE, es obligatorio tener instalado **VC Redist (Visual C++ Redistributable)** en su computadora.
+
+Si no lo tiene instalado, puede descargarlo desde el siguiente enlace:
+- **Descargar VC Redist**: https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+**Cómo comprobar si VC Redist está instalado:**
+1. Abra el Panel de control.
+2. Vaya a "Programas" > "Programas y características."
+3. Busque "Microsoft Visual C++ Redistributable" en la lista.
+   - Si está instalado, asegúrese de que la versión sea **2015-2022**.
+   - Si no está instalado, descárguelo desde el enlace anterior y siga las instrucciones de instalación.
+
+Antes de continuar con la instalación de JWPOS OFFLINE, asegúrese de que su sistema cumpla con los siguientes requisitos:
+- Windows 7 o superior.
+- 2 GB de RAM.
+- 200 MB de espacio libre en disco.
+
+Para soporte y más información, visite:
+www.justwp.online
+Teléfono: 849-883-5985
