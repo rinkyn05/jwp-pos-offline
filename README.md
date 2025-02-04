@@ -2,6 +2,8 @@
 
 **Just WPOS** es una aplicación simple pero efectiva de **Punto de Venta (POS)** diseñada para ser utilizada por pequeños y medianos negocios. Con una interfaz intuitiva y funcionalidades clave, la aplicación permite a los dueños de tiendas gestionar inventarios, ventas, cajeros y más desde una sola plataforma.
 
+![Vista principal](https://raw.githubusercontent.com/rinkyn05/jwp-pos-offline/refs/heads/main/assets/app_screenshot/basic%20pos%20home.png)
+
 ---
 
 ## 🌟 Características
@@ -67,6 +69,18 @@ Para generar instaladores para Windows, macOS o Linux, sigue las instrucciones e
 ### 📌 Demo en Vivo
 La aplicación se encuentra en fase de desarrollo, pero puedes obtener más información en el siguiente enlace:  
 [Just WPOS - Información](https://rinkyn05.github.io/app/)
+
+### 📄 Splash
+![Splash](https://raw.githubusercontent.com/rinkyn05/jwp-pos-offline/refs/heads/main/assets/app_screenshot/basic%20pos%20splash.png)
+
+### 📄 Registro o Logion
+![Registro_Logion](https://raw.githubusercontent.com/rinkyn05/jwp-pos-offline/refs/heads/main/assets/app_screenshot/basic%20pos%20login%20or%20register.png)
+
+### 📄 Registro
+![Registro](https://raw.githubusercontent.com/rinkyn05/jwp-pos-offline/refs/heads/main/assets/app_screenshot/basic%20pos%20register.png)
+
+### 📄 Productos
+![Productos](https://raw.githubusercontent.com/rinkyn05/jwp-pos-offline/refs/heads/main/assets/app_screenshot/basic%20pos%20products.png)
 
 ---
 
