@@ -73,7 +73,7 @@ La aplicación se encuentra en fase de desarrollo, pero puedes obtener más info
 ### 📄 Splash
 ![Splash](https://raw.githubusercontent.com/rinkyn05/jwp-pos-offline/refs/heads/main/assets/app_screenshot/basic%20pos%20splash.png)
 
-### 📄 Registro o Logion
+### 📄 Registro o Login
 ![Registro_Logion](https://raw.githubusercontent.com/rinkyn05/jwp-pos-offline/refs/heads/main/assets/app_screenshot/basic%20pos%20login%20or%20register.png)
 
 ### 📄 Registro
