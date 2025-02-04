@@ -25,7 +25,7 @@ class _AddProductScreenState extends State<AddProductScreen> {
   final _purchasePriceController = TextEditingController();
   final _salePriceController = TextEditingController();
   File? _mainImage;
-  final String _defaultImage = 'assets/producto_sin_imagen.jpg';
+  final String _defaultImage = 'assets/producto_sin_imagen.jpeg';
 
   final ImagePicker _picker = ImagePicker();
   final _formKey = GlobalKey<FormState>();
