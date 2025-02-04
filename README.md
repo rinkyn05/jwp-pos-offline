@@ -68,7 +68,7 @@ Para generar instaladores para Windows, macOS o Linux, sigue las instrucciones e
 
 ### 📌 Demo en Vivo
 La aplicación se encuentra en fase de desarrollo, pero puedes obtener más información en el siguiente enlace:  
-[Just WPOS - Información](https://rinkyn05.github.io/app/)
+[Just WPOS - Información](https://rinkyn05.github.io/jwp-pos-offline/)
 
 ### 📄 Splash
 ![Splash](https://raw.githubusercontent.com/rinkyn05/jwp-pos-offline/refs/heads/main/assets/app_screenshot/basic%20pos%20splash.png)
